@@ -1,0 +1,21 @@
+# Wildcard files
+*.pyc
+*.sublime-workspace
+*.sublime-project
+*.log
+*.log.*
+*pycache*
+
+# Specific folders
+.vscode
+/.idea/*
+/puppeteer/*
+/static/*
+smr_uploads/*
+cloud_data/*
+
+# Data folder
+data/
+
+# Results folder
+fig/
